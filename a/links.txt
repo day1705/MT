@@ -1,0 +1,15 @@
+https://whoisburiedhere.wordpress.com/2011/07/12/creating-a-com-object-from-scratch-with-c/
+https://medium.com/@jasemalsadi/dissecting-com-objects-9b1ea3f18964
+
+
+https://ip.ontivi.net
+
+
+https://de.scribd.com/document/60012475/COM-Interop-Part-1
+
+https://www.youtube.com/watch?v=HSKR2-qgqQ4
+
+Intro To Class Libraries in C#
+https://www.youtube.com/watch?v=C6LV_xMGdKc
+
+servicehub.datawarehousehost
